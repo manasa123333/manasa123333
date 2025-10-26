@@ -3,10 +3,6 @@
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasa123333" alt="manasa123333" /></a> </p>
-
 - 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manasa123333?tab=repositories](https://github.com/manasa123333?tab=repositories)
